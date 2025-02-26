@@ -1,3 +1,8 @@
+❓[Misc Characters list](MiscCharacters.md)
+
+
+↪️[Return to README](README.md)
+
 # Students list
 ### Abydos ✅
 - Ayane
@@ -15,4 +20,7 @@
 - Iori
 - Chinatsu
 
-[Return to README](README.md)
+❓[Misc Characters list](MiscCharacters.md)
+
+
+↪️[Return to README](README.md)
