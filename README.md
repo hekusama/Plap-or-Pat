@@ -9,8 +9,8 @@
 ![Koharu](https://lh6.googleusercontent.com/proxy/3boOOBQULZl47NtmgJsZZLUR3eLYlt73ShcnAKT7AxUOdSK5uVtoR7rZsS_MdAyffme8rLTva9E7ZQOyghEBGJgIDDEGFChVNLq6gYxmF8a63AEJkOB8quyf436gairzM_UrbCZcfOVJzz8qNjsXokrSZ_H1dRq3Pf2xwzXwsXRz2thKhiP_190BcG1n5rceS5idxd_6I3rVvSeHO-kXUVLNlQ8)
 
 ## Features
-- All Kivotos students (Including dead ones)
-- Other/Misc characters (Black suit, Arona, etc.)
+- [Kivotos Students](StudentsList.md)
+- [Other/Misc characters](MiscCharacters.md)
 - The **Plap** button 💢
 - The **Pat** button 😇
 - The **Loli** toggle 😭
